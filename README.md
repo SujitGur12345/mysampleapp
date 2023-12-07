@@ -1,0 +1,1 @@
+This is Sample First Git Commit From Git Bash
